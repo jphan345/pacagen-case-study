@@ -2,7 +2,7 @@
 
 This repository contains a functional review section for the Nutrafol Core for Women product page, designed as part of a take-home case study. The review section aims to enhance the product experience and support conversion by surfacing relevant customer feedback in a structured, interactive, and mobile-friendly layout.
 
-Task 1 is written inside of task1.md, and Task 2 is every other file. 
+Task 1 is written inside of task-1.md, and Task 2 is every other file. 
 
 ---
 
@@ -56,3 +56,4 @@ Task 1 is written inside of task1.md, and Task 2 is every other file.
    ```bash
 
    git clone <repo-url>
+

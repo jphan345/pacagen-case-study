@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Linda M.",
+    "age": 52,
+    "categories": ["45+"],
+    "highlight": true,
+    "text": "Three months in and I finally feel like myself again. Menopause hit me hard—thinning, shedding, no volume. Now I’m seeing new growth around my hairline and far less shedding in the shower."
+  },
+  {
+    "name": "Ashley P.",
+    "age": 31,
+    "categories": ["18-44","Postpartum"],
+    "highlight": true,
+    "text": "After my second baby, the postpartum shedding scared me. By month two, I saw baby hairs sprouting everywhere."
+  },
+  {
+    "name": "Carmen R.",
+    "age": 46,
+    "categories": ["45+"],
+    "highlight": false,
+    "text": "Stress from work caused constant shedding. This is the first product where I can actually see a difference—less hair in my brush and fuller roots."
+  },
+  {
+    "name": "Jenna L.",
+    "age": 27,
+    "categories": ["18-44","PCOS"],
+    "highlight": true,
+    "text": "I have PCOS and my hair was getting noticeably thin. Nutrafol didn’t fix everything overnight, but after 90 days I could see new density. Huge confidence boost."
+  },
+  {
+    "name": "Emily F.",
+    "age": 36,
+    "categories": ["18-44","Postpartum"],
+    "highlight": true,
+    "text": "Postpartum shedding was REAL. My ponytail feels thicker again."
+  },
+  {
+    "name": "Sarah T.",
+    "age": 29,
+    "categories": ["18-44","PCOS"],
+    "highlight": false,
+    "text": "With PCOS, I’d tried everything. Nutrafol is the only thing that gave me new growth by the third month."
+  },
+  {
+    "name": "Denise J.",
+    "age": 48,
+    "categories": ["45+"],
+    "highlight": false,
+    "text": "Hot flashes and thinning hair hit at the same time. This brought back strength to my strands and filled in sparse areas."
+  },
+  {
+    "name": "Monica S.",
+    "age": 44,
+    "categories": ["18-44","Stress"],
+    "highlight": false,
+    "text": "Long-term stress thinned out my mid-scalp. Nutrafol made it noticeably fuller."
+  },
+  {
+    "name": "Rebecca B.",
+    "age": 50,
+    "categories": ["45+"],
+    "highlight": true,
+    "text": "Entering menopause, my hair texture changed overnight. Nutrafol helped restore softness and volume."
+  },
+  {
+    "name": "Allison K.",
+    "age": 28,
+    "categories": ["18-44","PCOS"],
+    "highlight": true,
+    "text": "PCOS + stress = disaster for my hair. This supplement genuinely brought back strength and thickness."
+  },
+  {
+    "name": "Nora K.",
+    "age": 55,
+    "categories": ["45+"],
+    "highlight": false,
+    "text": "Menopause made my hair dry and weak. Now it feels stronger and healthier, and my scalp doesn’t feel as exposed."
+  },
+  {
+    "name": "Kathy W.",
+    "age": 40,
+    "categories": ["18-44","Stress"],
+    "highlight": false,
+    "text": "I started shedding due to chronic stress. Within 2 months, my hair felt anchored again—no more panic every time I washed it."
+  },
+  {
+    "name": "Grace P.",
+    "age": 38,
+    "categories": ["18-44","PCOS"],
+    "highlight": false,
+    "text": "PCOS had left me with thinning sides. This is the first time I’ve seen them fill in."
+  },
+  {
+    "name": "Michelle D.",
+    "age": 47,
+    "categories": ["45+","Menopause"],
+    "highlight": false,
+    "text": "Menopause made me feel like I was losing control. Seeing baby hairs again is such a relief."
+  },
+  {
+    "name": "Yasmin F.",
+    "age": 34,
+    "categories": ["18-44","Postpartum"],
+    "highlight": false,
+    "text": "After my first child, I shed for months. Nutrafol slowed it dramatically by week 6."
+  }
+]

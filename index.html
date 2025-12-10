@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nutrafol Reviews</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section class="reviews" aria-labelledby="reviews-heading">
+    <div class="reviews-header">
+      <h2 class="header-title">Real Women. <span class="header-italicized">Real Results.</span></h2>
+      <p class="header-text">See how Nutrafol Core for Women has helped women through postpartum, PCOS, menopause, and stress-related hair thinning.</p>
+    </div>
+    <div class="filters">
+      <label>
+        Product:
+        <select id="product-filter" aria-label="Filter products">
+          <option value="all">All</option>
+          <option value="18-44">Women 18-44</option>
+          <option value="45+">Women 45+</option>
+          <option value="Vegan">Vegan</option>
+          <option value="Postpartum">Postpartum</option>
+        </select>
+      </label>
+
+      <label>
+        Category:
+        <select id="category-filter" aria-label="Filter categories">
+          <option value="all">All</option>
+          <option value="Stress">Stress</option>
+          <option value="PCOS">PCOS</option>
+          <option value="Menopause">Menopause</option>
+          <option value="Postpartum">Postpartum</option>
+        </select>
+      </label>
+    </div>
+    <div id="review-grid" class="review-grid" aria-live="polite">
+      <!-- Reviews injected dynamically -->
+    </div>
+
+    <div class="load-more-wrapper">
+      <button id="load-more" class="load-more-btn">Load More Reviews</button>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
